@@ -5,7 +5,7 @@ I am a PhD biochemist with over 10 years experience in experimental research. I 
 
 ## My Skills 
 - **Languages:** JavaScript, Python, Java
-- **FrameWorks & Tools:** React, Node.js, Express.js, MySQL, Git
+- **Frameworks & Tools:** React, Node.js, Express.js, MySQL, Git
 - **Other**: Project management, problem solving design thinking, agile practices
 
 ## Projects 
