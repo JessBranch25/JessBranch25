@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jess 🥼💻
+# Hi there 👋, I'm Jess 🥼💻
 
 ## About me 
 I am a PhD biochemist with over 10 years experience in experimental research. I am passionate about building user-friendly applications to automate common manual processes. I developed my skills by building simple python tools to automate data processing and analaysis for routine wet-lab experiments, saving time and standadising analysis methods across the teams that I worked within. I recently completed the Full Stack Engineering CFG Degree with Code First Girls, learning JavaScript and React and building my first React applications. I am currently deepening my understanding with React and learning Java. 
