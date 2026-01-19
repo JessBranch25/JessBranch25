@@ -9,8 +9,8 @@ I am a PhD biochemist with over 10 years experience in experimental research. I 
 - **Other**: Project management, problem solving design thinking, agile practices
 
 ## Projects 
-1. **Food Delivery App** - A food ordering React app that filters by food item to allow picky eaters to seach for exactly what they want. ➡️ [demo](pickier_demo.mp4)  *Code pending project marking when project can be made public*
-2. **Protein Anaylsis Toolkit** - A set of tools required for protein science, automating routine data processing pipelines and elimininating the need for online tools ➡️ [code](https://github.com/JessBranch25/protein-analysis-toolkit)
+1. **Food Delivery App** - A food ordering React app that filters by food item to allow picky eaters to seach for exactly what they want. ➡️ [🎥 demo](pickier_demo.mp4)  *Code pending project marking when project can be made public*
+2. **Protein Anaylsis Toolkit** - A set of tools required for protein science, automating routine data processing pipelines and elimininating the need for online tools ➡️ [💻 code](https://github.com/JessBranch25/protein-analysis-toolkit)
 
 ## Currently Learning 
 - Java
