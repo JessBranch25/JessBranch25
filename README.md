@@ -9,7 +9,7 @@ I am a PhD biochemist with over 10 years experience in experimental research. I 
 - **Other**: Project management, problem solving design thinking, agile practices
 
 ## Projects 
-1. **Food Delivery App** - A food ordering React app that filters by food item to allow picky eaters to seach for exactly what they want. ➡️[💻 code](https://github.com/JescinthaRajkumar12/CFG-Group5-Project)[🎥Demo](https://github.com/user-attachments/assets/84b353c3-ce8f-49e0-86e6-8c1f16abd27e)
+1. **Food Delivery App** - A food ordering React app that filters by food item to allow picky eaters to seach for exactly what they want. ➡️[💻 code](https://github.com/JescinthaRajkumar12/CFG-Group5-Project) ➡️ [🎥Demo](https://github.com/user-attachments/assets/84b353c3-ce8f-49e0-86e6-8c1f16abd27e)
 3. **Protein Anaylsis Toolkit** - A set of tools required for protein science, automating routine data processing pipelines and elimininating the need for online tools ➡️ [💻 code](https://github.com/JessBranch25/protein-analysis-toolkit)
 
 ## Currently Learning 
